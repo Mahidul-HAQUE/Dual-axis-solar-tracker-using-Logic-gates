@@ -302,10 +302,4 @@ dual-axis-solar-tracker/
 
 ---
 
-## License
-
-MIT License — see `LICENSE` for details.
-
----
-
 *Built with ❤️ using only logic gates. No microcontrollers were harmed.*
